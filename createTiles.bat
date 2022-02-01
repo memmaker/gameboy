@@ -1,0 +1,1 @@
+rgbgfx.exe -o tileset.bin -t tilemap.bin -u %1
